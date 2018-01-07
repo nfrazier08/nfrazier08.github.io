@@ -4,6 +4,15 @@
     border-radius: 10px;
 }
 
-/* body {
-    background: black;
-} */
+/* Changes the color of the email icon located in the portfolioDashboard componenet */
+i.icon-black{    
+    color:black;    
+}
+ 
+.projectsNav {
+    background-color: #333;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+ }
