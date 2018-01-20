@@ -4,9 +4,9 @@ import React from "react";
 
 //Styling for the image icons is in App.css
 const Navbar = props => 
-    <nav className="cyan lighten3">
-        <div class="nav-wrapper">
-            <a class="brand-logo center">Nicole E. Frazier</a>
+    <nav className="cyan lighten3 navOpacity">
+        <div className="nav-wrapper">
+            <a className="brand-logo center">Nicole E. Frazier</a>
                 
         </div>
     </nav>

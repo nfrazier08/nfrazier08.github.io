@@ -1,6 +1,7 @@
 import React from "react";
 import ProjectCards from './ProjectCards';
 import PortfolioContainer from './PortfolioContainer.css'
+import ProjectPagination from './ProjectPagination'
 
 
 const ViewProjects = props =>
@@ -24,7 +25,9 @@ const ViewProjects = props =>
             />
         </div>
     </div>
-
+    <div className="row">
+        <ProjectPagination />
+    </div>
     
 </div>
 

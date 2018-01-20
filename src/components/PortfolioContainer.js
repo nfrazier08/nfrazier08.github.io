@@ -1,10 +1,12 @@
 import React, {Component} from "react";
 import Navbar from "./Navbar";
 // import profilePicture from "./images/profile.JPG";
+// import backgroundImage from './images/bridge.jpg'
 import './PortfolioContainer.css';
 import About from './About';
-import ViewProjects from './ViewProjects';
+// import ViewProjects from './ViewProjects';
 import PortfolioDashboard from './PortfolioDashboard'
+import MyProjects from './MyProjects';
 
 
 class Portfolio extends Component {
@@ -22,14 +24,12 @@ class Portfolio extends Component {
                             <About />
                         </div>
 
-                        <div className="col s4">
-                        <div className="row">
-                            <h4>View Projects</h4>
-                        </div>
-                            <ViewProjects />
+                        <div className="col s4">                    
+                        
+                            <MyProjects />
                             
                         </div>
-                    </div>
+                    </div>            
             </div>
         )
     }

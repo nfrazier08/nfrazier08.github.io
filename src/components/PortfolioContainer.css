@@ -1,0 +1,72 @@
+#mainPicture{
+    height: 300px;
+    padding-top:25px;
+    border-radius: 10px;
+}
+
+.navOpacity{
+    opacity: 0.95
+}
+
+/* Changes the color of the email icon located in the portfolioDashboard componenet */
+i.icon-black{    
+    color:black;    
+}
+ 
+.projectsNav {
+    background-color: #333;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+ }
+
+ body {
+    background-image: url('./images/bridge.jpg') ;
+    background-position: center center;
+    background-repeat:  no-repeat;
+    background-attachment: fixed;
+    background-size:  cover;
+    max-width: 100%;
+    height:auto;   
+ }
+
+.topDash{
+    margin-left: 30px;
+    margin-top:10px;
+    padding-bottom: 20px;
+    padding-left:20px;
+    opacity: 0.95
+}
+
+.lowDash{
+    margin-left: 30px;
+    margin-top: 0
+}
+
+.about{
+    margin-left: 30px;
+    margin-top:10px;
+    opacity:0.90;
+    padding:15px;
+    /* font-weight: bold */
+}
+
+.buttonDash{
+    margin-left: 30px;    
+}
+
+.resumeBtn{
+    opacity: 0.90
+}
+
+.myProjects {
+    margin-top: 10px;
+    /* background: white; */
+    padding: 15px;
+    opacity: 0.87
+}
+
+.github{
+    padding-left: 20px;
+}
