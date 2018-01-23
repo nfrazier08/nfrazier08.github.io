@@ -1,33 +1,25 @@
-import React from "react";
-import './PortfolioContainer.css';
+import React from "react"
 
 const About = props =>
     <div>
-        <div className="row about teal lighten-5">
+        <p>
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+        It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
+        It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
+        and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+        </p>
 
-            <p>I love connecting and building relationships with people and spent the last five years working in the service sector. 
-            I have positively enjoyed my experience as I have had the opportunity to meet people from all parts of the world.</p>
+        <p>
+        Move Projects here! 
+        Have an icon for resume in the navbar where viewers can download resume
+        </p>
 
-            <p>Beyond developing connections with people, I am driven by the creative process and my enthusiasm for learning new information and skills. 
-            I have spent the better part of the last year researching career prospects that merge these interests. And with a leap of faith, 
-            I enrolled in the University of Denver’s Web Development Bootcamp. </p>
-
-            <p>As it turns out, I love web development!</p>
-
-            <p>I love how web development allows me to work closely with others, 
-            challenges me to learn new things and creatively solve problems. Within the scope of the program, 
-            I have met other budding tech professionals, and have learned languages that have made it possible for me
-            to start with a simple idea and transform it into a functional web application.</p>
-
-            <p>I am actively pursuing a software development position that will allow me to continue my technical education in a professional environment. 
-            I am interested in innovative and challenging projects that positively impact lives and foster community development. </p>
-
-                   
-        </div>
+        <p>Even out the page/picture with the rest of the content</p>
 
         
 
-        
+        <a class="waves-effect waves-light btn">View Resume</a>
     </div>
 
 
