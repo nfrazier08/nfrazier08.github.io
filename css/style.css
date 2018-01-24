@@ -22,6 +22,7 @@
   height: 55px;  
 }
 
-#resume{
-  opacity: 0.5;
+#profilePicture{
+  height: 250px;
+  width: 350px;
 }
