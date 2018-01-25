@@ -31,6 +31,7 @@ body{
   background: #f5f5f5 
 }
 
-.mobileIcon{
-  margin: 15px;
+.mobileTexts{
+  color:white;
+  font: 25px;
 }
