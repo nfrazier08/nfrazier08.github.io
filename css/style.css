@@ -5,14 +5,23 @@
 }
 
 .pic2{
-  float:left;
+  margin-top:15px;
   height: 300px;
   width:390px;
   border-radius: 10px;
 }
-.no-pad-bot{
-  margin-top: 0
+
+nav ul {
+  text-align: center;
 }
+nav ul li {
+  display: inline;
+  float: none;
+}
+nav ul li a {
+  display: inline-block;
+}
+
 .icon-block {
   padding: 0 15px;
 }
