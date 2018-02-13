@@ -4,13 +4,15 @@
   font-family: Dancing Script
 }
 
-.profilepic{
+.pic2{
   float:left;
-  height: 460px;
-  width:320px;
-  /* border-radius: 10px; */
+  height: 300px;
+  width:390px;
+  border-radius: 10px;
 }
-
+.no-pad-bot{
+  margin-top: 0
+}
 .icon-block {
   padding: 0 15px;
 }
