@@ -4,6 +4,7 @@
   font-family: Dancing Script
 }
 
+/* Home page profile picture */
 .pic2{
   margin-top:15px;
   height: 300px;
@@ -11,6 +12,7 @@
   border-radius: 10px;
 }
 
+/* Navbar */
 nav ul {
   text-align: center;
 }
@@ -22,6 +24,7 @@ nav ul li a {
   display: inline-block;
 }
 
+/* High point icon style */
 .icon-block {
   padding: 0 15px;
 }
@@ -29,6 +32,21 @@ nav ul li a {
 	font-size: inherit;
 }
 
+/* Connect icon list style */
+.connectList ul{
+  text-align: center;
+}
+
+.connectList ul li {
+  display: inline;
+  float: none;
+}
+
+.connectList ul li a {
+  display: inline-block;
+}
+
+/* Connect Images */
 #github{
   height:53px;
   margin-top:2px; 
@@ -38,10 +56,12 @@ nav ul li a {
   height: 55px;  
 }
 
+/* Body Style */
 body{
   background:white
 }
 
+/* Mobile Nav */
 .mobileText{
   color:white;
   font: 25px;
