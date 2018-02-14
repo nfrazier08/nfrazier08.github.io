@@ -33,18 +33,20 @@ nav ul li a {
 }
 
 /* Connect icon list style */
-.connectList ul{
+
+ul.connectList  {
   text-align: center;
 }
 
-.connectList ul li {
+ul.connectList  li{
   display: inline;
   float: none;
 }
 
-.connectList ul li a {
+ul.connectList li a {
   display: inline-block;
 }
+
 
 /* Connect Images */
 #github{
@@ -53,7 +55,11 @@ nav ul li a {
 }
 
 #linkedin {
-  height: 55px;  
+  height: 58px;  
+}
+
+#twitter {
+  height: 58px;
 }
 
 /* Body Style */
