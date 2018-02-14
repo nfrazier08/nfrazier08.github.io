@@ -35,7 +35,7 @@ nav ul li a {
 /* Connect icon list style */
 
 ul.connectList  {
-  text-align: center;
+  text-align: left;
 }
 
 ul.connectList  li{
@@ -50,16 +50,21 @@ ul.connectList li a {
 
 /* Connect Images */
 #github{
-  height:53px;
-  margin-top:2px; 
+  height:58px;
 }
 
 #linkedin {
   height: 58px;  
+  /* height:2% */
 }
 
 #twitter {
-  height: 58px;
+  height: 59px;
+}
+
+.resumeBtn{
+  padding-left:100%;
+  padding-right: 100%
 }
 
 /* Body Style */
