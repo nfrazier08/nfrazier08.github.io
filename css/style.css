@@ -7,7 +7,7 @@
 .jobTitle{
   font-family: Pacifico;
   font-size: 50px;
-  margin-top: 15%;
+  margin-top: 5%;
   margin-left: 0px
 }
 
@@ -30,7 +30,7 @@
 
 /* Follow Content */
 .whatImDoing{
-  background:#e53935;
+  background:#f8bbd0;
   margin: 0 auto;
 }
 
@@ -38,7 +38,14 @@
   margin: 0 auto;
   color: white;
   text-align: center;
+  padding: 3%
 }
+/* colorBreak */
+.colorBreak{
+  padding: 4%
+}
+
+
 
 /* Home page profile picture */
 .pic2{
@@ -56,7 +63,7 @@
 }
 
 nav ul{
-  margin-right: 30%
+  margin-right: 20%
 
 }
 nav ul li a {
