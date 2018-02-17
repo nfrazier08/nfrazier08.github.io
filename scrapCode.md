@@ -10,3 +10,15 @@
             <p><h2>Web</h2></p>
             <p><h2>Developer</h2></p>
           </div>
+
+              <nav class="nav pink lighten-3">
+        <div class="nav-wrapper">
+          <a href="#" class="brand-logo center-align black-text nameTitle">Nicole Frazier</a>
+          <ul id="nav-mobile" class="right hide-on-med-and-down">
+            <li><a href="about.html">About</a></li>
+            <li><a href="badges.html">Blog</a></li>
+            <li><a href="collapsible.html">Contact</a></li>
+          </ul>
+        </div>
+    </nav>
+    

@@ -1,13 +1,14 @@
 /* Custom Stylesheet */
 /*Nav Style*/
-.nameTitle{
-  /* font-family: Dancing Script; */
-  
-}
+/* .nameTitle{
+  font-family: Dancing Script
+} */
 
 .jobTitle{
   font-family: Pacifico;
-  font-size: 100px,
+  font-size: 50px;
+  margin-top: 25%;
+  margin-left: 0px
 }
 
 /* Home page profile picture */
@@ -20,20 +21,22 @@
 }
 
 /* Navbar */
-nav{
-  padding:3%
+.topNavLinks{
+  padding-right:40%
 }
 
-nav ul {
-  text-align: center;
-}
-nav ul li {
-  display: inline;
-  float: none;
+nav ul{
+  margin-right: 30%
+
 }
 nav ul li a {
   display: inline-block;
 }
+
+.opaque{
+  background:#f48fb1
+}
+
 
 /* High point icon style */
 .icon-block {
