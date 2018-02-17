@@ -5,12 +5,13 @@ $(document).ready(function(){
     $(window).scroll(function(){
         var scroll = $(window).scrollTop();
 
-        if(scroll > 300){            
-            $(".opaque").css("background", "orange");
+        if(scroll > 200){            
+            $(".opaque").css("background", "#b71c1c");
+            $(".opaque").css("opacity", 0.8);            
         }
 
         else {
-            $(".opaque").css("background", "#f48fb1");
+            $(".opaque").css("background", "#f48fb1");            
         }
     })
 
