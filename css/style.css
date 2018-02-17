@@ -7,14 +7,44 @@
 .jobTitle{
   font-family: Pacifico;
   font-size: 50px;
-  margin-top: 25%;
+  margin-top: 15%;
   margin-left: 0px
+}
+
+.jobTitleBack {
+  background: #fce4ec;
+  padding: 15%;
+  border-radius: 10px;
+  opacity: 0.80;
+}
+
+.indexMainContent{
+  background: #eeeeee;
+  width:100%;
+  margin: 0 auto;
+}
+
+.picAndTitle{
+  padding: 2%;
+}
+
+/* Follow Content */
+.whatImDoing{
+  background:#e53935;
+  margin: 0 auto;
+}
+
+.followContent{
+  margin: 0 auto;
+  color: white;
+  text-align: center;
 }
 
 /* Home page profile picture */
 .pic2{
   margin-top:10%;
   margin-left:12%;
+  margin-right: 0%;
   height: 300px;
   width:390px;
   border-radius: 10px;
@@ -34,7 +64,7 @@ nav ul li a {
 }
 
 .opaque{
-  background:#f48fb1
+  background:#f48fb1;
 }
 
 
