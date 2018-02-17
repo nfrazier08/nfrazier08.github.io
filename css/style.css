@@ -1,18 +1,29 @@
 /* Custom Stylesheet */
 /*Nav Style*/
 .nameTitle{
-  font-family: Dancing Script
+  /* font-family: Dancing Script; */
+  
+}
+
+.jobTitle{
+  font-family: Pacifico;
+  font-size: 100px,
 }
 
 /* Home page profile picture */
 .pic2{
-  margin-top:15px;
+  margin-top:10%;
+  margin-left:12%;
   height: 300px;
   width:390px;
   border-radius: 10px;
 }
 
 /* Navbar */
+nav{
+  padding:3%
+}
+
 nav ul {
   text-align: center;
 }
